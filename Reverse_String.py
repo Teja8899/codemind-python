@@ -1,1 +1,1 @@
-print(' '.join(reversed(input().split())))
+print(''.join(reversed(input())))
